@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "sequoiakanies",
+    "password": null,
+    "database": "sequelize_tutorial",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "sequoiakanies",
+    "password": null,
+    "database": "sequelize_tutorial",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "sequoiakanies",
+    "password": null,
+    "database": "sequelize_tutorial",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
