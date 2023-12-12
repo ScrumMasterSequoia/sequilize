@@ -41,6 +41,6 @@ npx sequelize-cli db:seed:undo:all
 
 
 
-The purpose of this project is to seed a database with tester data, delete the data and reinstantiate the tables again with a single terminal command as described above. It is a part of a larger project in progress, where I am building a supplimet app which will need full stack functionality. This part of the project handles the database and will be combined with the other project parts to create the full stack web app. The data herein is sample tester data that means nothing and is only for practice and proof of concept so it can be adapted for its true purpose later on. 
+The purpose of this project is to seed a database with tester data, delete the data and reinstantiate the tables again with a single terminal command as described above. It is a part of a larger project in progress, where I am building a supplemet app which will need full stack functionality. This part of the project handles the database and will be combined with the other project parts to create the full stack web app. The data herein is sample tester data that means nothing and is only for practice and proof of concept so it can be adapted for its true purpose later on. 
 
 the placeholder folder is just that: used to hold the code for the migration and seeder files in case they get deleted.
